@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 //Javier Reyna 02/19/2015
 
 import java.util.Random;
